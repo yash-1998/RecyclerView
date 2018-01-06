@@ -34,6 +34,7 @@ public class MainActivity extends AppCompatActivity {
             current.title=titles[i];
             data.add(current);
         }
+        //jhwbfejhbefgi
         return  data;
     }
 }
